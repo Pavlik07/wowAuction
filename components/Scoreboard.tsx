@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import '../styles/scoreboard.css'
 import {Info, startingPointsHandler} from './CardInterface'
 import { useDispatch, useSelector } from 'react-redux'
