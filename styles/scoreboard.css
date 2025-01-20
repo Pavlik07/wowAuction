@@ -1,0 +1,47 @@
+.scoreboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: white;
+    border: cyan 2px solid;
+    border-radius: 50px;
+    margin: 10px 2px;
+}
+
+.startingPointsInput {
+    min-height: 25px;
+    width: 5vw;
+    height: 5vh;
+}
+
+.orcScoreBoard {
+    justify-items: center;
+    text-align: center;
+}
+
+.trollScoreBoard {
+    justify-items: center;
+    text-align: center;
+}
+.taurenScoreBoard {
+    justify-items: center;
+    text-align: center;
+}
+.undeadScoreBoard {
+    justify-items: center;
+    text-align: center;
+}
+
+.okBtn {
+    min-width: 40px;
+    min-height: 25px;
+    width: 3.3vw;
+    height: 5vh;
+    color: rgb(173, 54, 11);
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    padding: 4px;
+    background-color: rgb(200, 220, 238);
+    border-radius: 10px;
+    margin: 3px;
+}

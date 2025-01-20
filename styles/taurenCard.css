@@ -1,0 +1,16 @@
+.taurenCard {
+    border: orange 3px solid;
+    margin: 2px;
+    padding: 2px;
+    justify-items: center;
+    text-align: center;
+}
+.taurenCard h1 {
+    color: orange;
+}
+p input {
+    min-width: 110px;
+    min-height: 20px;
+    width: 12vw;
+    height: 4vh;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(36, 35, 35);
+    font-size: larger;
+    min-width: 922px;
+    min-height: 461px;
+}
+
+button {
+    color: rgb(173, 54, 11);
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    padding: 5px 10px;
+    background-color: rgb(200, 220, 238);
+    border-radius: 10px;
+    margin: 3px 0px;
+    cursor: pointer;
+}
+
+input {
+    border-radius: 10px;
+    border: none;
+    margin: 2px;
+    padding: 2px 5px;
+}

@@ -1,0 +1,27 @@
+.infoLine {
+    margin-top: 20px;
+    color: orangered;
+    text-align: center;
+}
+
+ol {
+    display: inline-block;
+    color: white;
+    text-align: left;
+}
+
+.lotName {
+    margin: 0px 8px;
+}
+.raceValue {
+    margin: 0px 8px;
+}
+
+.boldInfoLine {
+    font-size: larger;
+    font-weight: 300;
+    color: green;
+}
+.errorMsg {
+    color: red;
+}
